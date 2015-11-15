@@ -1,2 +1,2 @@
-# simpleCRUD is simple web application with create update and delete operations, 
-which using spring data, spring web mvc, postgresql, and testing with spring test and harmcrest.
+# simpleCRUD# is a simple web application with create, update, delete, found operations and paginating.
+It using spring data, spring web mvc, postgresql, and testing with spring test and hamcrest.
